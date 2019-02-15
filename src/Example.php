@@ -1,15 +1,15 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi;
+namespace kongchengsjw\umengOpenApi;
 
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\ExampleFacade;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetParam;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostParam;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetResult;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostResult;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\ExampleFacade;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetParam;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostParam;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetResult;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostResult;
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
 
 
 $exampleFacade = new ExampleFacade ();

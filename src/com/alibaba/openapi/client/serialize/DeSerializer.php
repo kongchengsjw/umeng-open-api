@@ -1,6 +1,6 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\openapi\client\serialize;
+namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize;
 
 interface DeSerializer
 {

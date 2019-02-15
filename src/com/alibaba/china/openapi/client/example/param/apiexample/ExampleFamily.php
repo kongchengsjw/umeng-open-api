@@ -1,12 +1,12 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample;  
+namespace kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample;  
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray; 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExamplePerson;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleCar;
-use ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleHouse;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray; 
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExamplePerson;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleCar;
+use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleHouse;
 
 class ExampleFamily extends SDKDomain
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\openapi\client\util;
+namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\util;
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
 
 class SDKDomainUtil
 {

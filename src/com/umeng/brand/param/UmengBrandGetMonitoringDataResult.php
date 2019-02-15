@@ -1,10 +1,10 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\umeng\brand\param; 
+namespace kongchengsjw\umengOpenApi\com\umeng\brand\param; 
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
-use ltuoaHg\umengOpenApi\com\umeng\brand\param\UmengBrandGetMonitoringData;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\umengOpenApi\com\umeng\brand\param\UmengBrandGetMonitoringData;
 
 class UmengBrandGetMonitoringDataResult 
 {

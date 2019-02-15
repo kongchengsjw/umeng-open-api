@@ -1,9 +1,9 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\umeng\apptrack\param; 
+namespace kongchengsjw\umengOpenApi\com\umeng\apptrack\param; 
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
 
 class UmengApptrackGetStayTrendDataParam 
 {

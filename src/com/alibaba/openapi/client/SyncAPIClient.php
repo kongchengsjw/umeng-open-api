@@ -1,9 +1,9 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\openapi\client;
+namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client;
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\serialize\SerializerProvider;
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\util\SignatureUtil;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize\SerializerProvider;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\util\SignatureUtil;
 
 class SyncAPIClient
 {

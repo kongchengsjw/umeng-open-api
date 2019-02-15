@@ -1,9 +1,9 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample; 
+namespace kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample; 
 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray; 
-use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray; 
+use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
 
 class ExampleCar extends SDKDomain
 {

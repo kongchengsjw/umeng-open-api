@@ -1,6 +1,6 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\openapi\client;
+namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client;
 
 class APIResponse
 {
