@@ -1,0 +1,11 @@
+{
+    "name": "shenjunwei/umeng-open-api",
+    "description": "盟数据统计Open-api",
+    "authors": [
+        {
+            "name": "sjw",
+            "email": "15053133130@163.com"
+        }
+    ],
+    "require": {}
+}
