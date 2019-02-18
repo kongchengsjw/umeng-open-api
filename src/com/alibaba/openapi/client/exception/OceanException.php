@@ -2,7 +2,7 @@
 
 namespace kongchengsjw\client\exception;
 
-class OceanException extends RuntimeException
+class OceanException extends \RuntimeException
 {
 	private $errorCode;
 
