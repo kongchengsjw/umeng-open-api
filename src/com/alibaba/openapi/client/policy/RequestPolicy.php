@@ -1,6 +1,6 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\policy;
+namespace kongchengsjw\client\policy;
 
 class RequestPolicy
 {

@@ -1,25 +1,25 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example;
+namespace kongchengsjw\example;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\APIId;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\APIRequest;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\APIResponse;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\SyncAPIClient;
+use kongchengsjw\client\APIId;
+use kongchengsjw\client\APIRequest;
+use kongchengsjw\client\APIResponse;
+use kongchengsjw\client\SyncAPIClient;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\AuthorizationToken;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ParentResult;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ResponseStatus;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ResponseWrapper;
+use kongchengsjw\client\entity\AuthorizationToken;
+use kongchengsjw\client\entity\ParentResult;
+use kongchengsjw\client\entity\ResponseStatus;
+use kongchengsjw\client\entity\ResponseWrapper;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\policy\ClientPolicy;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\policy\DataProtocol;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\policy\RequestPolicy;
+use kongchengsjw\client\policy\ClientPolicy;
+use kongchengsjw\client\policy\DataProtocol;
+use kongchengsjw\client\policy\RequestPolicy;
 
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetParam;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostParam;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetResult;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostResult;
+use kongchengsjw\example\param\apiexample\ExampleFamilyGetParam;
+use kongchengsjw\example\param\apiexample\ExampleFamilyPostParam;
+use kongchengsjw\example\param\apiexample\ExampleFamilyGetResult;
+use kongchengsjw\example\param\apiexample\ExampleFamilyPostResult;
 
 class ExampleFacade
 {

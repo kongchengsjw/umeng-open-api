@@ -1,9 +1,9 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize;
+namespace kongchengsjw\client\serialize;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize\DeSerializer;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\exception\OceanException;
+use kongchengsjw\client\serialize\DeSerializer;
+use kongchengsjw\client\exception\OceanException;
 
 class Json2Deserializer implements DeSerializer
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample; 
+namespace kongchengsjw\example\param\apiexample;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray; 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamily;
+use kongchengsjw\client\entity\ByteArray; 
+use kongchengsjw\client\entity\SDKDomain;
+use kongchengsjw\example\param\apiexample\ExampleFamily;
 
 class ExampleFamilyPostParam
 {

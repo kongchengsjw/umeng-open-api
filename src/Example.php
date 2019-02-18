@@ -2,14 +2,14 @@
 
 namespace kongchengsjw\umengOpenApi;
 
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\ExampleFacade;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetParam;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostParam;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyGetResult;
-use kongchengsjw\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample\ExampleFamilyPostResult;
+use kongchengsjw\example\ExampleFacade;
+use kongchengsjw\example\param\apiexample\ExampleFamilyGetParam;
+use kongchengsjw\example\param\apiexample\ExampleFamilyPostParam;
+use kongchengsjw\example\param\apiexample\ExampleFamilyGetResult;
+use kongchengsjw\example\param\apiexample\ExampleFamilyPostResult;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\client\entity\SDKDomain;
+use kongchengsjw\client\entity\ByteArray;
 
 
 $exampleFacade = new ExampleFacade ();

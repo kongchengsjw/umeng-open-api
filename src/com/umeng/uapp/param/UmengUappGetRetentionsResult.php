@@ -1,10 +1,10 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\umeng\uapp\param; 
+namespace kongchengsjw\umeng\uapp\param; 
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
-use kongchengsjw\umengOpenApi\com\umeng\uapp\param\UmengUappRetentionInfo;
+use kongchengsjw\client\entity\SDKDomain;
+use kongchengsjw\client\entity\ByteArray;
+use kongchengsjw\umeng\uapp\param\UmengUappRetentionInfo;
 
 class UmengUappGetRetentionsResult
 {

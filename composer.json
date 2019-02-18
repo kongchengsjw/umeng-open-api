@@ -7,5 +7,12 @@
             "email": "kong_cheng_sjw@163.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "kongchengsjw\\example\\" : "src/com/alibaba/china/openapi/example/",
+            "kongchengsjw\\client" : "src/com/alibaba/openapi/client",
+            "kongchengsjw\\umeng" : "src/com/ument"
+        }
+    },
     "require": {}
 }

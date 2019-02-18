@@ -1,6 +1,6 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize;
+namespace kongchengsjw\client\serialize;
 
 interface Serializer
 {

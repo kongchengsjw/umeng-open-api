@@ -1,6 +1,6 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client;
+namespace kongchengsjw\client;
 
 class APIRequest
 {

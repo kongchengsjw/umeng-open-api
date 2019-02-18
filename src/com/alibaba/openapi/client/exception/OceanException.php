@@ -1,6 +1,6 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\exception;
+namespace kongchengsjw\client\exception;
 
 class OceanException extends RuntimeException
 {

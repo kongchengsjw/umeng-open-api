@@ -1,9 +1,9 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\umeng\brand\param;
+namespace kongchengsjw\umeng\brand\param;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\client\entity\SDKDomain;
+use kongchengsjw\client\entity\ByteArray;
 
 class UmengBrandGetMonitoringDataParam 
 {

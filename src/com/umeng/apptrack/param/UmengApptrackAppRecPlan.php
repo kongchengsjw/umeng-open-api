@@ -1,9 +1,9 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\umeng\apptrack\param; 
+namespace kongchengsjw\umeng\apptrack\param; 
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
+use kongchengsjw\client\entity\SDKDomain;
+use kongchengsjw\client\entity\ByteArray;
 
 class UmengApptrackAppRecPlan extends SDKDomain
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize;
+namespace kongchengsjw\client\serialize;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize\Serializer;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\policy\DataProtocol;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\util\SDKDomainUtil;
+use kongchengsjw\client\serialize\Serializer;
+use kongchengsjw\client\entity\SDKDomain;
+use kongchengsjw\client\entity\ByteArray;
+use kongchengsjw\client\policy\DataProtocol;
+use kongchengsjw\client\util\SDKDomainUtil;
 
 class Param2RequestSerializer implements Serializer
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize;
+namespace kongchengsjw\client\serialize;
 
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\policy\DataProtocol;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize\Json2Deserializer;
-use kongchengsjw\umengOpenApi\com\alibaba\openapi\client\serialize\Param2RequestSerializer;
+use kongchengsjw\client\policy\DataProtocol;
+use kongchengsjw\client\serialize\Json2Deserializer;
+use kongchengsjw\client\serialize\Param2RequestSerializer;
 
 class SerializerProvider
 {

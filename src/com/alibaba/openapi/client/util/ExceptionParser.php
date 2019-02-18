@@ -1,6 +1,6 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\util;
+namespace kongchengsjw\client\util;
 
 class ExceptionParser
 {

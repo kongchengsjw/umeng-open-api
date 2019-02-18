@@ -1,6 +1,6 @@
 <?php
 
-namespace kongchengsjw\umengOpenApi\com\alibaba\openapi\client\entity;
+namespace kongchengsjw\client\entity;
 
 class AuthorizationToken
 {
