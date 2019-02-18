@@ -4,6 +4,9 @@ namespace kongchengsjw\client;
 
 use kongchengsjw\client\serialize\SerializerProvider;
 use kongchengsjw\client\util\SignatureUtil;
+use kongchengsjw\client\policy\ClientPolicy;
+use kongchengsjw\client\policy\RequestPolicy;
+use kongchengsjw\client\util\DateUtil;
 
 class SyncAPIClient
 {
