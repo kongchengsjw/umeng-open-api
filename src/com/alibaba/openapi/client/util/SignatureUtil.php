@@ -2,6 +2,9 @@
 
 namespace kongchengsjw\client\util;
 
+use kongchengsjw\client\policy\RequestPolicy;
+use kongchengsjw\client\policy\ClientPolicy;
+
 class SignatureUtil
 {
 	

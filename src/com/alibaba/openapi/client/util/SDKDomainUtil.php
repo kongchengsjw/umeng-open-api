@@ -10,7 +10,7 @@ class SDKDomainUtil
 	public function generateSDKDomainArray($sdkDomain)
 	{
 		$serializedResult = array ();
-		$ref = new ReflectionObject ( $sdkDomain );
+		$ref = new \ReflectionObject ( $sdkDomain );
 		foreach ( $ref->getMethods () as $tempMethod ) {
 			$methodName = $tempMethod->name;
 			if (strpos ( $methodName, "get" ) === 0) {

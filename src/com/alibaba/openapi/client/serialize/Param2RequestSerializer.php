@@ -21,7 +21,7 @@ class Param2RequestSerializer implements Serializer
 		if($serializer==null){
 			return $serializedResult;
 		}
-		$ref = new ReflectionObject($serializer);
+		$ref = new \ReflectionObject($serializer);
 		$sdkStdResultArray = null;
 		foreach ($ref->getMethods() as $tempMethod ) {
 			$methodName = $tempMethod->name;
