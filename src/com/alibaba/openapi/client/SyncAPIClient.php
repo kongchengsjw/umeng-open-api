@@ -62,7 +62,7 @@ class SyncAPIClient
 		}
 		$paramLength = strlen ( $paramToSign );
 		if ($paramLength > 0) {
-			$paramToSign = substr ( $paramToSign, 0, $paramToSign - 1 );
+			$paramToSign = substr ( $paramToSign, 0, $paramLength - 1 );
 		}
 		if ($requestPolicy->httpMethod === "GET") {
 			$urlRequest = $urlRequest . "?" . $paramToSign;
